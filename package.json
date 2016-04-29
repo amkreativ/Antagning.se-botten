@@ -1,0 +1,16 @@
+{
+  "name": "antagningscraper",
+  "version": "1.0.0",
+  "description": "Retrieves all courses from www.antagning.se",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Martinsson",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "jsonfile": "^2.3.0",
+    "request": "^2.72.0"
+  }
+}
